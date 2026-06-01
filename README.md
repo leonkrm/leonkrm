@@ -19,7 +19,6 @@
 
 ---
 
-## `$ cat whoami.txt`
 
 ```yaml
 name:        Leon Krmv
@@ -34,7 +33,6 @@ open_for:    [ collaboration, freelance, internship ]
 
 ---
 
-## `$ ls tech-stack/`
 
 **Languages**
 
@@ -68,7 +66,6 @@ open_for:    [ collaboration, freelance, internship ]
 
 ---
 
-## `$ cat current-focus.md`
 
 ```
 [████████░░░░░░░░░░░░] C#  — .NET ecosystem, Akka.NET actors
@@ -81,7 +78,6 @@ open_for:    [ collaboration, freelance, internship ]
 
 ---
 
-## `$ ls projects/` *(coming soon)*
 
 | Project | Stack | Status |
 |---------|-------|--------|
@@ -91,7 +87,6 @@ open_for:    [ collaboration, freelance, internship ]
 
 ---
 
-## `$ cat stats.sh`
 
 <div align="center">
 
@@ -105,7 +100,6 @@ open_for:    [ collaboration, freelance, internship ]
 
 ---
 
-## `$ cat contacts.txt`
 
 <div align="center">
 
