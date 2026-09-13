@@ -19,7 +19,6 @@
 
 ---
 
-
 ```yaml
 name:        Leon Krmv
 university:  KazNU — High-Load Information Systems with AI
@@ -33,6 +32,7 @@ open_for:    [ collaboration, freelance, internship ]
 
 ---
 
+### 🛠️ Tech Stack
 
 **Languages**
 
@@ -49,27 +49,30 @@ open_for:    [ collaboration, freelance, internship ]
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-**Tools**
+**Editor & Tools**
 
+![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA_GPU-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-**Also working with**
+**OS**
 
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![TradingView](https://img.shields.io/badge/TradingView-131722?style=flat-square&logo=tradingview&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+
+*Previously daily-drove Ubuntu, now on Fedora + Windows dual-boot.*
 
 ---
 
+### 📈 Skill Progress
 
 ```
 [████████░░░░░░░░░░░░] C#  — .NET ecosystem, Akka.NET actors
 [██████░░░░░░░░░░░░░░] CV  — OpenCV + YOLO object detection
+[██████░░░░░░░░░░░░░░] DL  — TensorFlow & PyTorch fundamentals
 [████░░░░░░░░░░░░░░░░] F#  — functional programming on .NET
 [██████████░░░░░░░░░░] ALG — algorithms & data structures
 ```
@@ -78,15 +81,37 @@ open_for:    [ collaboration, freelance, internship ]
 
 ---
 
+### 🎓 Courses & Certifications
+
+| Course | Stack | Status |
+|---|---|---|
+| Deep Learning Fundamentals | TensorFlow · PyTorch | ✅ Completed |
+| Image / Photo Processing | Python · OpenCV | 🚧 In progress |
+
+---
+
+### 📚 Current Semester — KazNU
+
+| Course | Type |
+|---|---|
+| Modern Cloud Technology Tools | Core |
+| Modern Speech Analysis & Computer Vision Technologies | Core |
+| Modern OOP Analysis & Design of Enterprise Information Systems | Core |
+| Object-Oriented Programming 1 (C# Fundamentals) | Elective |
+| Functional Programming Fundamentals (F#) | Elective |
+| Modern Web Development on .NET | Elective |
+
+---
+
+### 🚧 Projects
 
 | Project | Stack | Status |
-|---------|-------|--------|
+|---|---|---|
 | 🔍 Object Detector | Python · OpenCV · YOLO | 🚧 In progress |
 | ⚙️ Akka.NET Demo | C# · Akka.NET · Docker | 📋 Planned |
 | 📊 Algo Visualizer | C# · WPF | 📋 Planned |
 
 ---
-
 
 <div align="center">
 
@@ -99,7 +124,6 @@ open_for:    [ collaboration, freelance, internship ]
 </div>
 
 ---
-
 
 <div align="center">
 
