@@ -1,12 +1,19 @@
-<!-- ============================================================
+<!-- ==================================================================
   PROFILE README for github.com/leonkrm
-  1) Create a PUBLIC repo named exactly: leonkrm  (same as your username)
-  2) Put this file in it as README.md
-  3) Replace everything in [BRACKETS] and delete lines you don't need
-  ============================================================ -->
+  1) Repo must be PUBLIC and named exactly: leonkrm
+  2) Upload README.md AND the folder "assets" (with both images) to it
+  3) Replace everything in [BRACKETS]; delete what you don't need
+  Alternative banner (white background): assets/banner-obsession.jpg
+================================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e75b6&height=180&section=header&text=Leon%20Krmv&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=High-Load%20Information%20Systems%20%26%20AI&descSize=16&descAlignY=60" alt="header" />
+  <img src="assets/banner-cat.jpg" alt="What if I can't? But what if I can?" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Leon 👋</h1>
+
+<p align="center">
+  <b>High-Load Information Systems &amp; AI</b> · KazNU · Almaty
 </p>
 
 <p align="center">
@@ -25,71 +32,146 @@
 
 ## 👋 About me
 
-3rd-year student at **Al-Farabi Kazakh National University** (Faculty of Information Technology and Artificial Intelligence), specializing in **high-load information systems with AI**.
-I build backend services with **Python / Django** and **C# / .NET**, and I explore **computer vision** and **distributed systems**.
-I'm looking for an **internship or junior backend role** where I can work on real tasks and grow toward AI engineering.
+I'm a **3rd-year student at Al-Farabi Kazakh National University** (Faculty of Information Technology and Artificial Intelligence), specializing in **high-load information systems with AI**.
 
-```yaml
-name:        Leon Krmv
-university:  KazNU — High-Load Information Systems with AI
-year:        3rd year (2026)
-location:    Almaty, Kazakhstan
-focus:       [ Backend (Python/Django, C#/.NET), Computer Vision, Distributed Systems ]
-learning:    [ Docker, PostgreSQL, Akka.NET, OpenCV, YOLO ]
-building:    [ real projects, not tutorial apps ]
-open_for:    [ internship, junior backend, collaboration ]
-```
+I build **backend services** with Python / Django and C# / .NET, and I explore **computer vision** and **distributed systems**.
 
-**Daily driver:** Fedora + Windows (dual-boot)
+I'm looking for an **internship or junior backend role** where I can work on real tasks, learn from a team and grow toward AI engineering.
+
+### 🔥 What drives me
+
+> **Obsession beats talent.**
+> I don't wait to feel ready: I ship small things every week, break them, fix them and repeat.
+
+---
+
+## 💻 My daily driver
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows" alt="Fedora + Windows" /><br/>
+  <sub>Fedora + Windows (dual-boot). Previously daily-drove Ubuntu.</sub>
+</p>
+
+---
+
+## 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 Object Detector** &nbsp; `🚧 In progress`
+
+**What it does:** detects objects in images and video with OpenCV and YOLO.
+**Goal:** a clean project anyone can run with three commands.
+**Stack:** Python · OpenCV · YOLO
+
+[Repository →](https://github.com/leonkrm/[REPO_NAME])
+
+</td>
+<td width="50%" valign="top">
+
+**💰 Financial Portfolio API** &nbsp; `📋 Planned`
+
+**What it does:** REST API for users, portfolios, transactions and portfolio statistics.
+**Goal:** a production-style backend with auth, tests and Docker Compose.
+**Stack:** Python · Django · PostgreSQL · Docker
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⚙️ Akka.NET Demo** &nbsp; `📋 Planned`
+
+**What it does:** actor-based service demo.
+**Goal:** understand message-driven, distributed design in practice.
+**Stack:** C# · Akka.NET · Docker
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Algo Visualizer** &nbsp; `📋 Planned`
+
+**What it does:** visualizes sorting and search algorithms step by step.
+**Goal:** build intuition for complexity and data structures.
+**Stack:** C# · WPF
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech stack
 
-**Languages**
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,js" alt="languages" /><br/>
+  <img src="https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white" alt="F#" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![F#](https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p align="center"><b>Backend &amp; databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,dotnet,postgres" alt="backend" />
+</p>
 
-**Backend & databases**
+<p align="center"><b>AI &amp; computer vision</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="ai" /><br/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square" alt="YOLO" />
+</p>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+<p align="center"><b>Frontend &amp; desktop</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular" alt="frontend" /><br/>
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square" alt="WPF" />
+</p>
 
-**AI / Computer Vision**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-**Tools & OS**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square)
-
----
-
-## 🚀 Projects
-
-| Project | What it does | Stack | Status | Link |
-|---|---|---|---|---|
-| 🔍 **Object Detector** | Detects objects in images and video | Python · OpenCV · YOLO | 🚧 In progress | [repo](https://github.com/leonkrm/[REPO_NAME]) |
-| 💰 **Financial Portfolio API** | Users, portfolios, transactions and statistics via REST API | Python · Django · PostgreSQL · Docker | 📋 Planned | — |
-| ⚙️ **Akka.NET Demo** | Actor-based service demo | C# · Akka.NET · Docker | 📋 Planned | — |
-| 📊 **Algo Visualizer** | Visualizes sorting and search algorithms | C# · WPF | 📋 Planned | — |
+<p align="center"><b>DevOps &amp; tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" alt="tools" /><br/>
+  <img src="https://img.shields.io/badge/Rider-000000?style=flat-square" alt="Rider" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" />
+</p>
 
 ---
 
-## 🎯 Goals for this semester
+## 📊 Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=leonkrm&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonkrm&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonkrm&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonkrm&theme=tokyo-night&hide_border=true" alt="contribution graph" />
+</p>
+
+<sub>Numbers grow with every commit. If a card doesn't load, the public stats server is temporarily down.</sub>
+
+---
+
+## 🎯 Current focus &amp; interests
+
+```js
+const leon = {
+  role:     "3rd-year student @ KazNU — High-Load Information Systems with AI",
+  location: "Almaty, Kazakhstan",
+  focus:    ["Backend (Python/Django, C#/.NET)", "Computer Vision", "Distributed Systems"],
+  learning: ["Docker", "PostgreSQL", "Akka.NET", "OpenCV", "YOLO"],
+  goals:    ["Ship 3 real projects", "Land a backend internship", "Earn CS50P + freeCodeCamp certificates"],
+  openTo:   ["internship", "junior backend", "collaboration"],
+};
+```
+
+### ✅ Goals for this semester
 
 - [ ] Publish **Object Detector** with a clear README (how to run, screenshots)
 - [ ] Build **Financial Portfolio API** with Django, PostgreSQL and Docker Compose
@@ -98,7 +180,7 @@ open_for:    [ internship, junior backend, collaboration ]
 
 ---
 
-## 🎓 Courses & certifications
+## 🎓 Courses &amp; certifications
 
 | Course | Stack | Status |
 |---|---|---|
@@ -123,20 +205,45 @@ open_for:    [ internship, junior backend, collaboration ]
 
 ---
 
-<!-- ============================================================
-  ANALYTICS: turn this on when you have 2–4 weeks of regular commits.
-  With very few contributions these cards look empty.
-  Public stats servers sometimes go down; if images break, remove a card.
-  To enable: delete the two comment markers around the block below.
+## 🌱 Beyond code
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**📚 Books**
+
+Philosophy and classic literature (currently: Dostoevsky)
+
+</td>
+<td align="center" width="33%">
+
+**🗣️ Languages**
+
+Russian · English (working on it daily) · Korean (later)
+
+</td>
+<td align="center" width="33%">
+
+**🐧 Linux**
+
+Distro-hopping: Ubuntu → Fedora
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's connect
+
+I'm open to internships, junior backend roles and collaboration on real projects.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=leonkrm&theme=tokyonight&hide_border=true" alt="streak" />
+  <a href="[LINKEDIN_URL]"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://t.me/[TELEGRAM_USERNAME]"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge" alt="Telegram" /></a>
+  <a href="mailto:[EMAIL]"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge" alt="Email" /></a>
 </p>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonkrm&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonkrm&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-  ============================================================ -->
 
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i>
