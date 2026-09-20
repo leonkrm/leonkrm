@@ -7,7 +7,7 @@
 ================================================================== -->
 
 <p align="center">
-  <img src="assets/banner-cat.jpg" alt="What if I can't? But what if I can?" width="100%" />
+  <img src="assets/7957f5640d1591649ceb1e4ed25e20c9.jpg" alt="What if I can't? But what if I can?" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Leon 👋</h1>
