@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
-  <a href="[LINKEDIN_URL]"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://t.me/[TELEGRAM_USERNAME]"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge" alt="Telegram" /></a>
-  <a href="mailto:[EMAIL]"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge" alt="Email" /></a>
+  <a href="[https://www.linkedin.com/in/ruslan-kerimbekov/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEt6swIRnT3Giy1cykucTOw%3D%3D]"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://t.me/[insomeli]"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge" alt="Telegram" /></a>
+  <a href="mailto:[leonx.kerimbekov@gmail.com]"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge" alt="Email" /></a>
 </p>
 
 ---
