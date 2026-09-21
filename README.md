@@ -2,7 +2,8 @@
   PROFILE README for github.com/leonkrm
   1) Repo must be PUBLIC and named exactly: leonkrm
   2) Upload README.md AND the folder "assets" (with the banner image) to it
-  3) Make the repo "rag-dev-assistant" public (it is linked from Featured Projects)
+  3) Repos linked from Featured Projects must exist and be PUBLIC:
+     rag-dev-assistant, ticket-booking-api, object-detector
 ================================================================== -->
 
 <p align="center">
@@ -22,6 +23,7 @@ I build **backend services** with Python / Django and C# / .NET, and I explore *
 
 ## 🔭 Currently
 
+- Building a high-load **Ticket Booking API** (Django, PostgreSQL, Redis)
 - Building **Object Detector**
 - Exploring **Computer Vision**
 - Learning **distributed / high-load systems**
@@ -70,8 +72,13 @@ I build **backend services** with Python / Django and C# / .NET, and I explore *
 Python · RAG-based assistant for developers
 [Repository →](https://github.com/leonkrm/rag-dev-assistant)
 
+### 🎟️ Ticket Booking API &nbsp; `🚧 In progress`
+Django REST + PostgreSQL + Redis + Celery + Docker · race-safe seat booking under load
+[Repository →](https://github.com/leonkrm/ticket-booking-api)
+
 ### 🔍 Object Detector &nbsp; `🚧 In progress`
-YOLO + OpenCV · repository coming soon
+YOLO + OpenCV · object detection in images and video
+[Repository →](https://github.com/leonkrm/object-detector)
 
 <!-- Template for the next project:
 ### ⚙️ Project name
