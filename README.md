@@ -2,7 +2,7 @@
   PROFILE README for github.com/leonkrm
   1) Repo must be PUBLIC and named exactly: leonkrm
   2) Upload README.md AND the folder "assets" (with the banner image) to it
-  3) Replace the REPO_NAME placeholders in "Featured Projects"
+  3) Make the repo "rag-dev-assistant" public (it is linked from Featured Projects)
 ================================================================== -->
 
 <p align="center">
@@ -66,17 +66,18 @@ I build **backend services** with Python / Django and C# / .NET, and I explore *
 
 ## 🚀 Featured Projects
 
+### 🤖 RAG Dev Assistant
+Python · RAG-based assistant for developers
+[Repository →](https://github.com/leonkrm/rag-dev-assistant)
+
 ### 🔍 Object Detector &nbsp; `🚧 In progress`
-YOLO + OpenCV
-[Repository →](https://github.com/leonkrm/REPO_NAME)
+YOLO + OpenCV · repository coming soon
 
-### ⚙️ High-load API
-Django + PostgreSQL + Docker
-[Repository →](https://github.com/leonkrm/REPO_NAME)
-
-### 🧩 Another project
-C# / .NET
-[Repository →](https://github.com/leonkrm/REPO_NAME)
+<!-- Template for the next project:
+### ⚙️ Project name
+Stack: Django + PostgreSQL + Docker
+[Repository →](https://github.com/leonkrm/repo-name)
+-->
 
 ---
 
