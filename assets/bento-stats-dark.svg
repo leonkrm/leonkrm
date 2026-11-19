@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Bento Engineering Telemetry">
+  <defs>
+    <clipPath id="langBarClip">
+      <rect x="22" y="82" width="246" height="10" rx="5"/>
+    </clipPath>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      @keyframes livePulse { 0%,100% { opacity: 1; } 50% { opacity: 0.35; } }
+      .live { animation: livePulse 2.2s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" fill="#0d1117"/>
+
+  <!-- Card 1: Contribution Engine -->
+  <g transform="translate(0, 8)">
+    <rect x="0.75" y="0.75" width="286.5" height="242.5" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <text x="22" y="34" class="mono" font-size="11" fill="#8b949e" letter-spacing="1.1">CONTRIBUTIONS</text>
+    <circle cx="228" cy="30" r="3.5" fill="#39d353" class="live"/>
+    <text x="266" y="34" text-anchor="end" class="mono" font-size="10" fill="#39d353">LIVE</text>
+    <text x="22" y="88" class="sans" font-size="44" font-weight="700" fill="#e6edf3">87</text>
+    <text x="88" y="86" class="mono" font-size="11.5" fill="#8b949e">commits / yr</text>
+
+    <line x1="22" y1="112" x2="266" y2="112" stroke="#30363d" stroke-width="1"/>
+    <text x="22" y="142" class="mono" font-size="10.5" fill="#8b949e">CURRENT STREAK</text>
+    <text x="22" y="164" class="sans" font-size="19" font-weight="600" fill="#e6edf3">0d</text>
+    <text x="154" y="142" class="mono" font-size="10.5" fill="#8b949e">LONGEST</text>
+    <text x="154" y="164" class="sans" font-size="19" font-weight="600" fill="#38bdf8">8d</text>
+
+    <text x="22" y="198" class="mono" font-size="10.5" fill="#8b949e">ACTIVE DAYS</text>
+    <text x="22" y="220" class="sans" font-size="17" font-weight="600" fill="#e6edf3">23</text>
+    <text x="154" y="198" class="mono" font-size="10.5" fill="#8b949e">PEAK DAY</text>
+    <text x="154" y="220" class="sans" font-size="17" font-weight="600" fill="#e6edf3">11 commits</text>
+  </g>
+
+  <!-- Card 2: Weekly Rhythm -->
+  <g transform="translate(304, 8)">
+    <rect x="0.75" y="0.75" width="286.5" height="242.5" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <text x="22" y="34" class="mono" font-size="11" fill="#8b949e" letter-spacing="1.1">WEEKLY RHYTHM</text>
+    <text x="22" y="58" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Peak day: Fri</text>
+    <rect x="24" y="146" width="22" height="32" rx="5" fill="#30363d" fill-opacity="0.75"/><text x="35" y="198" text-anchor="middle" class="mono" font-size="10" fill="#8b949e">M</text><rect x="60" y="168" width="22" height="10" rx="5" fill="#30363d" fill-opacity="0.75"/><text x="71" y="198" text-anchor="middle" class="mono" font-size="10" fill="#8b949e">T</text><rect x="96" y="151" width="22" height="27" rx="5" fill="#30363d" fill-opacity="0.75"/><text x="107" y="198" text-anchor="middle" class="mono" font-size="10" fill="#8b949e">W</text><rect x="132" y="158" width="22" height="20" rx="5" fill="#30363d" fill-opacity="0.75"/><text x="143" y="198" text-anchor="middle" class="mono" font-size="10" fill="#8b949e">T</text><rect x="168" y="92" width="22" height="86" rx="5" fill="#38bdf8" fill-opacity="0.95"/><text x="179" y="198" text-anchor="middle" class="mono" font-size="10" fill="#8b949e">F</text><text x="179" y="86" text-anchor="middle" class="mono" font-size="10" font-weight="700" fill="#38bdf8">35</text><rect x="204" y="151" width="22" height="27" rx="5" fill="#30363d" fill-opacity="0.75"/><text x="215" y="198" text-anchor="middle" class="mono" font-size="10" fill="#8b949e">S</text><rect x="240" y="166" width="22" height="12" rx="5" fill="#30363d" fill-opacity="0.75"/><text x="251" y="198" text-anchor="middle" class="mono" font-size="10" fill="#8b949e">S</text>
+    <text x="22" y="224" class="mono" font-size="10.5" fill="#6e7681">Distribution across last 52 weeks</text>
+  </g>
+
+  <!-- Card 3: Code Languages -->
+  <g transform="translate(608, 8)">
+    <rect x="0.75" y="0.75" width="286.5" height="242.5" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <text x="22" y="34" class="mono" font-size="11" fill="#8b949e" letter-spacing="1.1">CORE LANGUAGES</text>
+    <text x="22" y="58" class="sans" font-size="14" font-weight="600" fill="#e6edf3">10 repositories (7 pub)</text>
+    <rect x="22" y="82" width="246" height="10" rx="5" fill="#21262d"/>
+    <g clip-path="url(#langBarClip)"><rect x="22.0" y="82" width="169.2" height="10" fill="#3572A5"/><rect x="191.2" y="82" width="49.2" height="10" fill="#f1e05a"/><rect x="240.4" y="82" width="13.3" height="10" fill="#b845fc"/><rect x="253.7" y="82" width="10.8" height="10" fill="#3178c6"/><rect x="264.6" y="82" width="4.0" height="10" fill="#384d54"/></g>
+    <circle cx="28" cy="114" r="4.5" fill="#3572A5"/><text x="41" y="118" class="sans" font-size="12" fill="#e6edf3">Python</text><text x="266" y="118" text-anchor="end" class="mono" font-size="11.5" fill="#8b949e">68.8%</text><circle cx="28" cy="138" r="4.5" fill="#f1e05a"/><text x="41" y="142" class="sans" font-size="12" fill="#e6edf3">JavaScript</text><text x="266" y="142" text-anchor="end" class="mono" font-size="11.5" fill="#8b949e">20.0%</text><circle cx="28" cy="162" r="4.5" fill="#b845fc"/><text x="41" y="166" class="sans" font-size="12" fill="#e6edf3">F#</text><text x="266" y="166" text-anchor="end" class="mono" font-size="11.5" fill="#8b949e">5.4%</text><circle cx="28" cy="186" r="4.5" fill="#3178c6"/><text x="41" y="190" class="sans" font-size="12" fill="#e6edf3">TypeScript</text><text x="266" y="190" text-anchor="end" class="mono" font-size="11.5" fill="#8b949e">4.4%</text><circle cx="28" cy="210" r="4.5" fill="#384d54"/><text x="41" y="214" class="sans" font-size="12" fill="#e6edf3">Dockerfile</text><text x="266" y="214" text-anchor="end" class="mono" font-size="11.5" fill="#8b949e">1.3%</text>
+  </g>
+
+  <!-- Card 4: System Node -->
+  <g transform="translate(912, 8)">
+    <rect x="0.75" y="0.75" width="287.5" height="242.5" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <text x="22" y="34" class="mono" font-size="11" fill="#8b949e" letter-spacing="1.1">SYSTEM NODE</text>
+    <rect x="196" y="19" width="70" height="20" rx="10" fill="#1f242c" stroke="#30363d" stroke-width="1"/>
+    <text x="231" y="33" text-anchor="middle" class="mono" font-size="10" fill="#38bdf8">UTC+5</text>
+
+    <text x="22" y="72" class="mono" font-size="11.5" fill="#8b949e">HOST</text>
+    <text x="266" y="72" text-anchor="end" class="sans" font-size="12.5" font-weight="600" fill="#e6edf3">Al-Farabi KazNU</text>
+    <line x1="22" y1="86" x2="266" y2="86" stroke="#21262d" stroke-width="1"/>
+
+    <text x="22" y="108" class="mono" font-size="11.5" fill="#8b949e">DOMAIN</text>
+    <text x="266" y="108" text-anchor="end" class="sans" font-size="12.5" font-weight="600" fill="#e6edf3">High-Load &amp; AI</text>
+    <line x1="22" y1="122" x2="266" y2="122" stroke="#21262d" stroke-width="1"/>
+
+    <text x="22" y="144" class="mono" font-size="11.5" fill="#8b949e">PRIMARY</text>
+    <text x="266" y="144" text-anchor="end" class="sans" font-size="12.5" font-weight="600" fill="#e6edf3">Python · C#/.NET · CV</text>
+    <line x1="22" y1="158" x2="266" y2="158" stroke="#21262d" stroke-width="1"/>
+
+    <text x="22" y="180" class="mono" font-size="11.5" fill="#8b949e">SYNCED</text>
+    <text x="266" y="180" text-anchor="end" class="mono" font-size="11.5" fill="#58a6ff">2026-11-28</text>
+
+    <!-- Subtle telemetry pulse polyline -->
+    <polyline points="22,216 66,216 82,204 94,224 108,198 122,220 134,216 266,216" fill="none" stroke="#38bdf8" stroke-width="1.6" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="108" cy="198" r="3" fill="#38bdf8" class="live"/>
+  </g>
+</svg>
